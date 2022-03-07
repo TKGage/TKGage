@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TKGage
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ...software developer at Thinkful!
-- 💞️ I’m looking to collaborate on ...capable projects for rhe experience!
+- 💞️ I’m looking to collaborate on ...capable projects for the experience!
 - 📫 How to reach me ... on here
 
 <!---
